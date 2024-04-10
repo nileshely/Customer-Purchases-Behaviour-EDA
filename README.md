@@ -1,1 +1,1 @@
-# Customer-Purchases-Behaviour-EDA
+# Customer Purchases Behaviour EDA
